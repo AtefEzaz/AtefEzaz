@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./cover.png" alt="Atef Akbar Ezaz - GitHub Cover" width="100%">
+</div>
+
 # 💫 About Me:
 🖥️ Currently working with React.js, Next.js, TypeScript, and Redux for frontend development.<br>🗄️ Exploring Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for backend development.<br>🛠️ Currently learning React Native, GraphQL, Docker, and AWS.<br>🧠 Solving DSA & Competitive Programming problems.<br>🤖 Exploring Machine Learning research and real-world AI applications.
 
